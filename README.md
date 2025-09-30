@@ -24,7 +24,7 @@ A SWI-Prolog vehicle catalog showcasing findall/3 & bagof/3 queries plus a price
 
 ## 🗂️ Files
 
-- `catalog.pl` — main code:
+- `practice2.pl` — main code:
   - Facts: `vehicle/5`
   - Predicates: `meet_budget/2`, `references_by_brand/2`, `inventory_limit/1`, `generate_report/4`
   - Helpers: `select_under_cap/5`, `extract_refs/2`
